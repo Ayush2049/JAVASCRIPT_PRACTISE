@@ -1,0 +1,14 @@
+                   slice()
+
+
+slice return a part of original array
+but it doesnt include the last range ex-(1,3)   it will not include 3rd element
+  
+                   splice()
+
+
+splice return a part of original array
+but it includes the last range ex-(1,3)   it will include 3rd element
+but here the original array is also changed.
+
+                      
