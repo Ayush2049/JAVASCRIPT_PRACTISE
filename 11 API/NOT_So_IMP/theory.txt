@@ -1,0 +1,4 @@
+theses are just to see and understand
+
+this is code for diff types of api request using diff methods like .then and async await
+for ex get ,post request
