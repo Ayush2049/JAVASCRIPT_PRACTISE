@@ -1,0 +1,4 @@
+FILTER- it filter out the data from array or obect based on cetain conditions
+
+if the filter is using scope in arrow function then we have to use return keyword
+if there is no scope ex-{},then we don,t need to use return keyword
